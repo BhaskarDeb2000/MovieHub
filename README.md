@@ -61,4 +61,4 @@ To run MovieHub locally, you'll need an API key from the OMDb API.
 
 MovieHub is deployed on **Vercel**. You can access the live version here:
 
-[MovieHub Live](https://moviehub.vercel.app)
+[MovieHub Live](https://movie-hub-wheat.vercel.app/)
